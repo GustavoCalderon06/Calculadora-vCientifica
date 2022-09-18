@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="CalculadoraVCientifica" />
+        <module name="Calculadora-vCientifica" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Calculadora-vCientifica" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
